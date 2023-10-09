@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello world!");
         System.out.println("Hello world!");
-        int b = 1;
+        int b = 2;
     }
 }
